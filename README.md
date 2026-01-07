@@ -1,2 +1,2 @@
-# success-empire-backend
+# success-empire
 Backend for SUCCESS-EMPIRE website
